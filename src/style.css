@@ -1,0 +1,8 @@
+.dog-container {
+  width:100%;
+  display: flex;
+}
+.dog-img {
+  display: flex;
+  max-width: 400px;
+}
